@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NME-rahul
-- 👀 I’m interested Aritificial intellegence
+- 👀 I’m interested in Aritificial intellegence
 - 🌱 I’m currently learning ...
 - 📫 to reach me mail at rv42088@gmail.com
 - 
