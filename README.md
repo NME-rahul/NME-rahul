@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/NME-rahul/Doodle_draw-Recognition/blob/main/images/Firefly%20animated%20Image%20of%20a%20AI%20working%20on%20a%20project%20and%20the%20background%20should%20be%20aesthetic%20and%20creat%20(1).jpg" />
   </p>
 
-
+---
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg"  title="xcode" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="python" alt="CSS" width="80" height="80"/>&nbsp;
@@ -48,6 +48,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="80" height="80"/>
 </div>
+
+----
 
 </div>
 
