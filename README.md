@@ -20,8 +20,9 @@ You can click the Preview link to take a look at your changes.
     </a>
   </div>
 
-  <!--profile views--->
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <!--profile views
+  <img src="https://komarev.com/ghpvc/?username=NME-rahul&style=flat-square&color=blue" alt=""/>
+  --->
   
   <h1 style="font-family:MS">
     Hey there!
