@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @NME-rahul
-- 👀 I’m interested in Aritificial intellegence
-- 🌱 I’m currently learning ...
-- 📫 to reach me mail at rv42088@gmail.com
-
 <!---
 NME-rahul/NME-rahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -56,3 +51,15 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
+<div align="center">
+  
+[![GitHub Streak 1](http://github-readme-streak-stats.herokuapp.com?user=NME-rahul&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+[![Top Langs 2](https://github-readme-stats.vercel.app/api/top-langs/?username=NME-rahul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
+## About Me
+- 👀 I’m interested in Artificial Intelligence.
+- 🌱 I’m currently learning and exploring new AI techniques and technologies.
+- 📫 You can reach me via email at rv42088@gmail.com.
